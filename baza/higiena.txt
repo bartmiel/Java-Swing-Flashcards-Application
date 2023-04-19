@@ -1,0 +1,8 @@
+dirt;brud
+dirty;brudny
+clean;czyścić
+to comb hair;czesać włosy
+to file nails;piłować paznokcie
+to have a shower;brać prysznic
+hygiene;higieniczny
+to rinse hair;płukać włosy

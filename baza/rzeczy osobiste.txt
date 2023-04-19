@@ -1,0 +1,11 @@
+bag;saszetka
+bracelet;bransoletka
+briefcase;aktówka
+calendar;kalendarz
+cap;czapka
+car keys;kluczyki do samochodu
+chain;łańcuszek
+chewing gum;guma do żucia
+coin;moneta
+comb;grzebień
+earring;kolczyk

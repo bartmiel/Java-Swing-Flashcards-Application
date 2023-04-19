@@ -1,0 +1,16 @@
+adoption;adopcja
+ancestor;przodek
+aunt;ciotka
+brother;brat
+brother in law;szwagier
+child;dziecko
+cousin;kuzyn
+daughter;córka
+daughter in law;synowa
+descendant;potomek
+divorce;rozwód
+elder sister;starsza siostra
+extended family;dalsza rodzina
+family life;życie rodzinne
+family reunion;spotkanie rodzinne
+family;rodzina

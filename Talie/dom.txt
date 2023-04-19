@@ -1,0 +1,8 @@
+accommodation;zakwaterownaie
+attic;strych
+balcony;balkon
+bathroom;łazienka
+bedroom;sypialnia
+ceiling;sufit
+cellar;piwnica
+central heating;centralne ogrzewanie

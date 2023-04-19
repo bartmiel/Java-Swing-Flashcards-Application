@@ -1,0 +1,5 @@
+cat;kot
+horse;koń
+dog;pies
+frog;żaba
+caw;krowa
